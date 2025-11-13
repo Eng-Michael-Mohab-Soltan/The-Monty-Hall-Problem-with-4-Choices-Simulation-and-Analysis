@@ -21,17 +21,6 @@ We simulate both strategies one million times to compare the results.
 
 ---
 
-## 🧮 The Logic
-- **Staying with your choice:**  
-  Probability of winning = 1/4 = **25%**
-
-- **Switching your choice:**  
-  Probability of winning = (3/4) × (1/2) = **37.5%**
-
-So statistically, switching gives a **12.5% advantage**!
-
----
-
 ## 🚀 Results (based on simulation)
 | Strategy | Winning Chance |
 |-----------|----------------|
